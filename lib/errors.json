@@ -1,0 +1,29 @@
+{
+  "errorCodes": {
+    "5b2b8e590d3be507b6526ce2": {
+      "eMsg": "limit is required for getNew",
+      "description": "limit is required for getNew",
+      "sev": "s3"
+    },
+    "5b2b8e590d3be507b6526ce3": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "5b2b8e590d3be507b6526ce4": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "5b2b8e590d3be507b6526ce5": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    },
+    "5b2b8e590d3be507b6526ce6": {
+      "eMsg": "tbd",
+      "description": "",
+      "sev": "s3"
+    }
+  }
+}

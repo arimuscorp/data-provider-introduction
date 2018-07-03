@@ -1,0 +1,10 @@
+{
+  "name": "@arimuscorp/data-provider-introduction",
+  "description": "Arimus Introduction Data Provider",
+  "author": "Ryan Ogle",
+  "dependencies": {
+    "underscore": "latest"
+  },
+  "license": "UNLICENSED",
+  "version": "0.0.1"
+}
