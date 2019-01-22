@@ -2,9 +2,11 @@
   "name": "@arimuscorp/data-provider-introduction",
   "description": "Arimus Introduction Data Provider",
   "author": "Ryan Ogle",
-  "dependencies": {
-    "underscore": "latest"
-  },
+  "dependencies": {},
   "license": "UNLICENSED",
-  "version": "0.0.1"
+  "repository": {
+    "type": "git",
+    "url": "github:arimuscorp/data-provider-introduction"
+  },
+  "version": "0.0.2"
 }
